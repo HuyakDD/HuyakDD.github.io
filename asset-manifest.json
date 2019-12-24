@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.53858d8d.chunk.css",
+    "main.js": "/static/js/main.6ec71ae1.chunk.js",
+    "main.js.map": "/static/js/main.6ec71ae1.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.09664b48.js",
+    "runtime~main.js.map": "/static/js/runtime~main.09664b48.js.map",
+    "static/css/2.a4ac9b21.chunk.css": "/static/css/2.a4ac9b21.chunk.css",
+    "static/js/2.ad8c37ed.chunk.js": "/static/js/2.ad8c37ed.chunk.js",
+    "static/js/2.ad8c37ed.chunk.js.map": "/static/js/2.ad8c37ed.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c764693463670410909d8a5f84c95661.js": "/precache-manifest.c764693463670410909d8a5f84c95661.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a4ac9b21.chunk.css.map": "/static/css/2.a4ac9b21.chunk.css.map",
+    "static/css/main.53858d8d.chunk.css.map": "/static/css/main.53858d8d.chunk.css.map",
+    "static/media/big-slot-machine.jpg": "/static/media/big-slot-machine.5c72e214.jpg",
+    "static/media/casino.jpeg": "/static/media/casino.3baf88a8.jpeg",
+    "static/media/slot-machine.jpg": "/static/media/slot-machine.3d044acf.jpg",
+    "static/media/slot-sprites.png": "/static/media/slot-sprites.9bf0152b.png"
+  }
+}
